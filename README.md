@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ana Flávia
 
-Me chamo Ana Flávia Costa Caricatti, tenho 22 anos, sou de Minas Gerais e estou cursando Bacharelado em Ciência da Computação. Estou me apaixonando cada vez mais pela área, principalmente pelas possibilidades criativas que a tecnologia oferece.
+Me chamo Ana Flávia Costa Caricatti, tenho 22 anos, sou de Minas Gerais e estou cursando Bacharelado em Ciência da Computação. Estou me apaixonando cada vez mais pela área, principalmente pelas possibilidades criativas que a tecnologia oferece.(linguagens e tecnologias em processo de aprendizagem)
 <p align="left">
     <a href="mailto:anaflaviacaricatti3@gmail.com">
         <img 
