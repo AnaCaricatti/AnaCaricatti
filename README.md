@@ -59,6 +59,14 @@ Me chamo Ana Flávia Costa Caricatti, tenho 22 anos, sou de Minas Gerais e estou
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+<img 
+    align="left" 
+    alt="jQuery"
+    title="jQuery" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
 <br/>
 <br/>
 
