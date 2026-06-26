@@ -66,7 +66,7 @@ Me chamo Ana Flávia , tenho 23 anos, sou de Minas e estou cursando Bacharelado 
 
 
 
-<p>
+<!-- <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -74,4 +74,4 @@ Me chamo Ana Flávia , tenho 23 anos, sou de Minas e estou cursando Bacharelado 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AnaCaricatti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-</p>
+</p> -->
