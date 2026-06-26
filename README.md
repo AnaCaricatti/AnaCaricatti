@@ -10,13 +10,6 @@ Me chamo Ana Flávia , tenho 23 anos, sou de Minas e estou cursando Bacharelado 
             src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://api.whatsapp.com/send?phone=35991775183">
-        <img 
-            alt="whatsapp" 
-            title="Fale comigo no whatsapp" 
-            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-        />
-    </a> 
     <a href="https://discord.com/users/600319440239722496">
         <img 
             alt="Discord" 
