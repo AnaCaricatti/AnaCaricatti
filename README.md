@@ -1,87 +1,46 @@
-<h1 align="center"> Oi, eu sou a Ana ★ </h1>
+ <h1 align="center">Olá, eu sou a Ana Flávia! ★</h1>
 
-
-Me chamo Ana Flávia , tenho 23 anos, sou de Minas e estou cursando Bacharelado em Ciência da Computação. Estou me apaixonando cada vez mais pela área, principalmente pelas possibilidades criativas que a tecnologia oferece. (linguagens e tecnologias em processo de aprendizagem)
-<p align="left">
-    <a href="mailto:anaflaviacaricatti3@gmail.com">
-        <img 
-            alt="email" 
-            title="Enviar email" 
-            src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="https://discord.com/users/600319440239722496">
-        <img 
-            alt="Discord" 
-            title="Discord" 
-            src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <i>Desenvolvedora em formação | Ciência da Computação</i>
 </p>
 
-### 🤖 Linguagens e Tecnologias
+<p align="center">
+  Sou de Minas Gerais e estou cursando Bacharelado em Ciência da Computação. Estou sempre aprendendo e explorando as possibilidades criativas da tecnologia, desenvolvendo projetos e aprimorando minhas habilidades.
+</p>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-      align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="jQuery"
-    title="jQuery" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<br/>
-<br/>
+<p align="center">
+  <a href="mailto:anaflaviacaricatti3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.com/users/600319440239722496">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AnaCaricatti/AnaCaricatti/output/github-snake-dark.svg">
+---
 
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AnaCaricatti/AnaCaricatti/output/github-snake.svg">
+<h3 align="center">⌨️ Tecnologias e ferramentas</h3>
 
-  <img alt="github-snake"
-    src="https://raw.githubusercontent.com/AnaCaricatti/AnaCaricatti/output/github-snake.svg">
-</picture>
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery"/>
+</p>
 
+---
 
-<!-- <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AnaCaricatti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p> -->
+<h3 align="center">🐍 Meus commits</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnaCaricatti/AnaCaricatti/output/github-snake.svg" alt="Animação da cobrinha comendo minhas contribuições do GitHub" width="100%"/>
+</p>
+
+<p align="center">
+  <i>Um commit de cada vez, sempre aprendendo! ★</i>
+</p>
