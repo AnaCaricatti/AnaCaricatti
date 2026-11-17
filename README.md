@@ -45,7 +45,7 @@
 </p>
 ---
 
-<h3 align="center">🐍 Meus commits</h3>
+<!-- <h3 align="center">🐍 Meus commits</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnaCaricatti/AnaCaricatti/output/github-snake.svg" alt="Animação da cobrinha comendo minhas contribuições do GitHub" width="100%"/>
@@ -53,4 +53,4 @@
 
 <p align="center">
   <i>Um commit de cada vez, sempre aprendendo! ★</i>
-</p>
+</p> -->
