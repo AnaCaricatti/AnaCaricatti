@@ -1,38 +1,77 @@
-\<h1 align="center">🍄 It's-a me, Ana! ★\</h1>
+<h1 align="center">🍄 It's-a me, Ana! ★</h1>
 
-\<p align="center">   \<i>Desenvolvedora em formação | Ciência da Computação\</i> \</p>
+<p align="center">
+  <i>Desenvolvedora em formação | Ciência da Computação</i>
+</p>
 
-\<p align="center">   Sou de Minas Gerais e estou cursando Bacharelado em Ciência da Computação. Estou sempre aprendendo e explorando as possibilidades criativas da tecnologia, desenvolvendo projetos e aprimorando minhas habilidades. \</p>
+<p align="center">
+  Sou de Minas Gerais e estou cursando Bacharelado em Ciência da Computação. Estou sempre aprendendo e explorando as possibilidades criativas da tecnologia, desenvolvendo projetos e aprimorando minhas habilidades.
+</p>
 
-\<p align="center">   \<a href="mailto\:anaflaviacaricatti3\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-0072C6?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>   \</a>   \<a href="[https://discord.com/users/600319440239722496](https://discord.com/users/600319440239722496)">     \<img src="[https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)" alt="Discord"/>   \</a> \</p>
-
----
-
-\<h3 align="center">⌨️ Tecnologias e ferramentas\</h3>
-
-\<h4 align="center">Front-end\</h4> \<p align="center">   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)" title="HTML5" alt="HTML5"/>   &nbsp;&nbsp;   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)" title="CSS3" alt="CSS3"/>   &nbsp;&nbsp;   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)" title="JavaScript" alt="JavaScript"/>   &nbsp;&nbsp;   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)" title="React" alt="React"/>   &nbsp;&nbsp;   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg)" title="jQuery" alt="jQuery"/> \</p>
-
-\<h4 align="center">Back-end\</h4> \<p align="center">   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)" title="PHP" alt="PHP"/>   &nbsp;&nbsp;   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)" title="Node.js" alt="Node.js"/> \</p>
-
-\<h4 align="center">Mobile\</h4>
-\<p align="center">
-&#x20; \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)" title="React Native" alt="React Native"/>
-&#x20; &nbsp;&nbsp;
-&#x20; \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg)" title="Expo" alt="Expo"/>
-\</p>
-
-\<h4 align="center">Banco de dados\</h4> \<p align="center">   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg)" title="MySQL" alt="MySQL"/>   &nbsp;&nbsp;   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)" title="PostgreSQL" alt="PostgreSQL"/> \</p>
-
-\<h4 align="center">Ferramentas\</h4> \<p align="center">   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)" title="Git" alt="Git"/>   &nbsp;&nbsp;   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)" title="GitHub" alt="GitHub"/>   &nbsp;&nbsp;   \<img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)" title="VS Code" alt="VS Code"/> \</p>
+<p align="center">
+  <a href="mailto:anaflaviacaricatti3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://discord.com/users/600319440239722496">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ---
 
-\<h3 align="center">🐍 Meus commits\</h3>
+<h3 align="center">⌨️ Tecnologias e ferramentas</h3>
 
-\<p align="center">
-&#x20; \<img src="[https://raw.githubusercontent.com/AnaCaricatti/AnaCaricatti/output/github-snake.svg](https://raw.githubusercontent.com/AnaCaricatti/AnaCaricatti/output/github-snake.svg)" alt="Animação da cobrinha comendo minhas contribuições do GitHub" width="100%"/>
-\</p>
+<h4 align="center">Front-end</h4>
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery"/>
+</p>
 
-\<p align="center">
-&#x20; \<i>Um commit de cada vez, sempre aprendendo! ★\</i>
-\</p>
+<h4 align="center">Back-end</h4>
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js"/>
+</p>
+
+<h4 align="center">Mobile</h4>
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React Native" alt="React Native"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" title="Expo" alt="Expo"/>
+</p>
+
+<h4 align="center">Banco de dados</h4>
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL"/>
+</p>
+
+<h4 align="center">Ferramentas</h4>
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code"/>
+</p>
+
+---
+
+<h3 align="center">🐍 Meus commits</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnaCaricatti/AnaCaricatti/output/github-snake.svg" alt="Animação da cobrinha comendo minhas contribuições do GitHub" width="100%"/>
+</p>
+
+<p align="center">
+  <i>Um commit de cada vez, sempre aprendendo! ★</i>
+</p>
