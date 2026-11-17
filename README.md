@@ -21,7 +21,6 @@
 
 <h3 align="center">⌨️ Tecnologias e ferramentas</h3>
 
-<h4 align="center">Front-end</h4>
 <p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5"/>
   &nbsp;&nbsp;
@@ -29,41 +28,26 @@
   &nbsp;&nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"/>
   &nbsp;&nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React"/>
-  &nbsp;&nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery"/>
-</p>
-
-<h4 align="center">Back-end</h4>
-<p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP"/>
   &nbsp;&nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js"/>
-</p>
-
-<h4 align="center">Mobile</h4>
-<p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React Native" alt="React Native"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery"/>
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React / React Native" alt="React"/>
   &nbsp;&nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" title="Expo" alt="Expo"/>
-</p>
-
-<h4 align="center">Banco de dados</h4>
-<p align="center">
+  &nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js"/>
+  &nbsp;&nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL"/>
   &nbsp;&nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL"/>
-</p>
-
-<h4 align="center">Ferramentas</h4>
-<p align="center">
+  &nbsp;&nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git"/>
   &nbsp;&nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub"/>
   &nbsp;&nbsp;
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code"/>
 </p>
-
 ---
 
 <h3 align="center">🐍 Meus commits</h3>
